@@ -1,2 +1,2 @@
-# Vocaloid
-This is an archive for the most listened to vocaloid songs
+# HATSUNE MIKU
+Hatsune miku is a virtual singer created by the Japanese company CRYPTON Media. The following archive is a collection of multiple media she has been featured in. Apart from being used as a synthetic singer she has also been used in many collabs across diffrent companies.

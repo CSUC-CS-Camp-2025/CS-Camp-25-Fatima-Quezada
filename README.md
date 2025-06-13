@@ -1,1 +1,2 @@
-# Spiders
+# Hatsune Miku
+Hatsune Miku is a Vocaloid created by the company Crypton Future Media. She is a singing software used to synthesize vocals. Her image has been used to advertize different products to reach a wider target audience. 

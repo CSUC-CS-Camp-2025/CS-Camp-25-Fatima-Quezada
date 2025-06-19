@@ -50,7 +50,7 @@
     }
 }
 
-.word span:ntn-child(3).active {
+.word span:nth-child(3).active {
     animation: falling 2s ease-out;
     transform-origin: bottom center;
 

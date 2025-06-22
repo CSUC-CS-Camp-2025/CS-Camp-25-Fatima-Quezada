@@ -31,14 +31,15 @@ h3 {text-align: center;}
 @keyframes pulse-magenta {
     0% {
         box-shadow: 0 0 10px 2px #ff00b7;
-        50% {
+    }
+    50% {
         box-shadow: 0 0 25px 10px #ff00b7;
+    }
         100% {
         box-shadow: 0 0 10px 2px #ff00b7;
             }
         }
-    }
-}
+    
 /* flex container for description 1 */
 .flex-container2 div {
   display: flex;
@@ -66,14 +67,16 @@ h3 {text-align: center;}
 @keyframes pulse-magenta {
     0% {
         box-shadow: 0 0 10px 2px #ff00b7;
+    }
         50% {
         box-shadow: 0 0 25px 10px #ff00b7;
+        }
         100% {
         box-shadow: 0 0 10px 2px #ff00b7;
             }
         }
-    }
-}
+    
+
 
 img {
     /* makes rounded corners */
@@ -205,4 +208,5 @@ body {
     left: 50%;
     transform: translateX(-50%);
 }
+
 

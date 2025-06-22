@@ -3,20 +3,34 @@
 h2 {text-align: center;}
 .word {text-align: center;}
 h3 {text-align: center;}
-/* makes rounded corners */
-img {
-  border-radius: 8px;
-}
 
-img {
- display: block;
-  margin: auto;
-  flex-direction: row;
+
+.flex-container {
+  display: flex;
+  background-color: #00000060;
   justify-content: center;
-  
-
 }
-.word {
+
+.flex-container > div {
+  background-color: #ff00b7;
+  margin: 10px;
+  padding: 10px;
+  font-size: 30px;
+  
+}
+
+img {
+    /* makes rounded corners */
+    border-radius: 8px;
+ 
+  display: block;
+  row-gap: 10px;
+  justify-content: center;
+  margin: auto;
+}
+
+
+.word { 
     font-family: 'Anton', sans-serif;
     perspective: 1000px;
 

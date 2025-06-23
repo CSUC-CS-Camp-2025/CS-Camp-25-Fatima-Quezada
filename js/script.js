@@ -17,7 +17,7 @@ setTimeout(() => {
 function setup( ) {
     //Draw canvas and set background
     let canvas = createCanvas (400, 400);
-    canvas.position(550,1100);
+    canvas.position(550,1550);
     let img = createImg('images/MikuHairColoring.PNG');
     img.position(canvas.x, canvas.y);
     img.size(400, 400);

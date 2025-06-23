@@ -210,3 +210,24 @@ body {
 }
 
 
+.flex-container5 {
+  display: flex;
+  background-color: #00000088;
+  justify-content: center;
+}
+
+.flex-container5 div {
+  background-color: #ffffff;
+  margin: 10px;
+  padding: 2px;
+  font-size: 30px;
+  border-radius: 8px;
+  box-shadow: 0 0 20px 5px #ff00b7;
+    
+  animation: pulse-magenta 2s infinite;
+}
+.flex-container6 {
+  display: flex;
+  background-color: #00000088;
+  justify-content: center;
+}
